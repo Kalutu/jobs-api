@@ -11,9 +11,9 @@ Jobs API is a Node.js application that provides authentication endpoints (regist
 
 ### Installation
 
-1. Clone the repository:```bash git clone https://github.com/Kalutu/jobs-api ```
-2. Change into the project directory: ```bash cd jobs-api```
-3. Install dependencies: ```bash npm install ```
+1. Clone the repository:  ``` git clone https://github.com/Kalutu/jobs-api ```
+2. Change into the project directory:  ``` cd jobs-api```
+3. Install dependencies:  ``` npm install ```
 
 ### Configuration
 Create a .env file in the root directory with the following content:
